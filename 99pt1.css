@@ -1,0 +1,15 @@
+body {
+    background-color: aliceblue;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    text-decoration: underline 5px solid darkblue
+}
+.friend {
+    background-color: cornflowerblue;
+    ;
+}
+.friend > h3 {
+    text-transform: uppercase;
+}
